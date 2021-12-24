@@ -37,7 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Noobcoder2728/Ultroid=Template&template=https://github.com/Noobcoder2728/UltroidTemplate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noobcoder2728/Ultroid)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
